@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1277c103-7818-4d0a-8843-8e49c5e8e572" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../sprint_2/Vikinger - Social Community and Marketplace HTML Template/Light Version/HTML Template/css/vendor/doi_anh_dai_dien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/fastfood/service/FoodService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 01 - Pseudo Code  Flowchart.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 02 - Git  HTML.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 03 - HTML Form  Table.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 04 - JavaScript Overview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 05 - Variable and Data Types.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 06 - Conditional Statements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 07 - Loop Statements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 08 - Arrays.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 09 - Function.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 10 - Introduction to OOP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slide_bai_giang_module1/Slide 11 - Objects and Classes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[0] Bộ câu hỏi phỏng vấn cơ bản.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[1] Bộ câu hỏi phỏng vấn module 1-BP2.0.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_git/bai_tap_ve_nha/Bài tập 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_git/bai_tap_ve_nha/Bài tập 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_git/bai_tap_ve_nha/Bài tập 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_git/thuc_hanh_clone_du_an" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_git/thuc_hanh_tao_du_an_git" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bao_cao_hang_tuan/tuan_1/BaoCaoTuan1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bao_cao_hang_tuan/tuan_2/C0620G1_VoThanhTin.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bao_cao_hang_tuan/tuan_3/C0620G1_VoThanhTin.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bao_cao_hang_tuan/tuan_4/C0620G1_VoThanhTin.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/bai10_11/107869706_272391267399548_7653354796508027994_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/bai10_11/107901665_267026814596729_8786473896822264266_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/bai10_11/108009519_632541350949890_8970883218840776219_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/bai10_11/108028013_2257768831015017_1849269493367501681_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/bai_12/109302004_1631468257024112_7107419250921776495_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/bai_12/109703555_1697453707075358_93192268234672992_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_4_git&amp;html/105618851_1145761592489639_5737162528508356817_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_4_git&amp;html/106101355_315251899878260_7843385745797710264_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_4_git&amp;html/106200617_267061604552078_5548528720685078824_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_4_git&amp;html/106479352_770799907063303_8300817197031530007_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_4_git&amp;html/106488974_608494486456108_6483433553762352023_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_4_git&amp;html/106811731_745876106182530_8921892631516781377_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_4_git&amp;html/83503423_3207562969302933_6689253983678051148_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_5_form_table/106319553_262651745159153_2721973192794811569_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_5_form_table/106955427_306414793862402_2990778996521232247_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_5_form_table/107035286_3153826224682478_2366129994148628601_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_6_va_7_form_table - Copy/106278190_578339372871362_2129268467518317605_n (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_6_va_7_form_table - Copy/106278190_578339372871362_2129268467518317605_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_6_va_7_form_table - Copy/106583088_595805391067479_4608804519631346607_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_6_va_7_form_table - Copy/107568080_1260603674282018_3579944143872720994_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../conel_bai_hoc/conell_bai_8_9_form_table/107486054_282386839668721_6184810767339338780_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../git_cau_hoi_on_tap/gitCauHoiOnTap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../git_project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../module_1/cau_truc_lap_2/bai_tap/luyen_tap_cau_truc_vong_lap_1/bai9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../module_1/cau_truc_lap_2/bai_tap/luyen_tap_cau_truc_vong_lap_1/bai9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/.idea/thi_module_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/bai_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/bai_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/bai_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi_module_1/bai_4.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1qmAl9OjnNigcAQRt1FrYJTfvFg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FastFoodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fast-food.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codegym.fastfood.FastFoodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1277c103-7818-4d0a-8843-8e49c5e8e572" name="Default Changelist" comment="" />
+      <created>1617674539877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617674539877</updated>
+      <workItem from="1617674544038" duration="2566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
